@@ -1,2 +1,2 @@
 # Python
-My Python learning log
+My python learning log
